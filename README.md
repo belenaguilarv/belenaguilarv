@@ -1,6 +1,6 @@
-## Hi there I'm Belu 👋
+## Hi, I'm Belu 👋
 
-Systems Engineer focused on Data Science and Data Analytics.
+Systems Engineer focused on **Data Science and Data Analytics**.
 
 Currently working with systems integrations while expanding my experience in data analysis, machine learning and statistical modeling.
 

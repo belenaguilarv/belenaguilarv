@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there I'm Belu 👋
 
-<!--
-**belenaguilarv/belenaguilarv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Engineer focused on Data Science and Data Analytics.
 
-Here are some ideas to get you started:
+Currently working with systems integrations while expanding my experience in data analysis, machine learning and statistical modeling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech: Python · SQL · R · Power BI · Pandas · Scikit-learn · Git
+
+Currently working on:
+🛰️ Space debris and satellite prediction project
+📊 Data Science & Machine Learning Diploma
+👗 Data-driven fashion analytics projects
+
+📍 Córdoba, Argentina

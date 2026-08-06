@@ -7,8 +7,6 @@ Currently working with systems integrations while expanding my experience in dat
 Tech: Python · SQL · R · Power BI · Pandas · Scikit-learn · Git
 
 Currently working on:
-🛰️ Space debris and satellite prediction project
-📊 Data Science & Machine Learning Diploma
-👗 Data-driven fashion analytics projects
-
-📍 Córdoba, Argentina
+- 🛰️ Space debris and satellite prediction project
+- 📊 Data Science & Machine Learning Diploma
+- 👗 Data-driven fashion analytics projects
